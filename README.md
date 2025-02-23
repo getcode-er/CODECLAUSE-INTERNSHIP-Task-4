@@ -1,6 +1,8 @@
 # CODECLAUSE-INTERNSHIP-Task-4
 
-**Project Title -** Customer Segmentation Tool Internship Domain - Data Science Intern
+**Project Title -** Customer Segmentation Tool
+
+**Internship Domain -** Data Science Intern
 
 **Project Details -**
 
