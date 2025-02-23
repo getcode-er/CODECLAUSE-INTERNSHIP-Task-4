@@ -1,6 +1,6 @@
 # CODECLAUSE-INTERNSHIP-Task-4
 
-**Project Title -** Customer Segmentation Tool
+**Project Title -**  Heart Disease Risk Assessment
 
 **Internship Domain -** Data Science Intern
 
